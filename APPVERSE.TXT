@@ -1,0 +1,20 @@
+__ARQUITECTURA APPVERSE__
+
+Install tools --> Install dependencies --> Develop --> Test --> Build
+
+1- Install tools
+ NodeJS
+ NPM
+
+2- Install dependencies
+ Bower
+
+3- Develop 
+ GruntJS
+
+4- Testing
+ Karma (Unit Test)
+ Mocha
+
+5- Build
+Grunt dist
